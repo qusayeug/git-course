@@ -9,3 +9,4 @@ alert("Hello, firs lesson");
 console.log("Hi, next lesson");
 const name = 'Eugene';
 const lastName = 'Kusey';
+const secondChange = "Other";
